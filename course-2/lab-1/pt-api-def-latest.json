@@ -1,11 +1,11 @@
 {
-    "name" : "dakar_developers",
+    "name" : "myname_developers",
     "resources" : {
       "artifact" : {
         "actions" : {
           "users" : { },
           "groups" : {
-            "dakar_developers" : [ "READ", "WRITE", "ANNOTATE" ]
+            "developers" : [ "READ", "WRITE", "ANNOTATE" ]
           }
         },
         "targets" : {
